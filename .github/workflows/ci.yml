@@ -66,7 +66,7 @@ jobs:
             python3 pyright_to_rdjson.py  |
             reviewdog -f=rdjson -name="pyright-report" \
               -reporter="github-check" \
-              -fail-on-error="true" -level=error
+              -fail-on-error="true" -level="warning"
           reviewdog_rc=$?
           echo '::endgroup::'
           exit $reviewdog_rc
