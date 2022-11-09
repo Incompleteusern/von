@@ -85,7 +85,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.10, <4.0"
-content-hash = "e8cb4f4042a3154e294fd1c3c1eba9f6c8b370391c8df954b3d57b3497b16c07"
+content-hash = "da09cd2aed4379826d31e6b6a40fd51bf30ede23139373055e8edbef7f9c7330"
 
 [metadata.files]
 codespell = [
