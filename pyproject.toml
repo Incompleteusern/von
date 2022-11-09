@@ -9,6 +9,7 @@ repository = "https://github.com/vEnhance/von/"
 
 [tool.poetry.dependencies]
 python = ">=3.10, <4.0"
+pyperclip = "^1.8.2"
 
 [tool.poetry.group.dev.dependencies]
 codespell = "^2.2.2"
